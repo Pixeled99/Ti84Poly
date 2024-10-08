@@ -1,0 +1,1 @@
+A program to get one of the zeros of a polynomial. This is a very niche program I made so I don't have to guess and check with the Radical Roots Theorem. I could of make it solve the entire thing or I could of just not made this and graph it instead, but I still watned to practice doing the other steps by hand
